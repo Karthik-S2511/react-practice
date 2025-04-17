@@ -1,0 +1,56 @@
+{
+ "CandidateData": [
+  {
+   "id": "1",
+   "skill": "HTML",
+   "proficiency": "4"
+  },
+  {
+   "id": "2",
+   "skill": "CSS",
+   "proficiency": "4"
+  },
+  {
+   "id": "3",
+   "skill": "Javascript",
+   "proficiency": "4"
+  },
+  {
+   "id": "4",
+   "skill": "React",
+   "proficiency": "4"
+  }
+ ],
+ "books": [
+  {
+   "id": "1",
+   "title": "Title A",
+   "author": "Author A",
+   "publishedYear": "2000"
+  },
+  {
+   "id": "2",
+   "title": "Updated Title",
+   "author": "Author B",
+   "publishedYear": "2005"
+  },
+  {
+   "id": "3",
+   "title": "Title C",
+   "author": "Author C",
+   "publishedYear": "2006"
+  },
+  {
+   "id": "4",
+   "title": "Title D",
+   "author": "Author D",
+   "publishedYear": "2010"
+  },
+  {
+   "id": "acd1",
+   "title": "name",
+   "author": "email",
+   "publishedYear": "12"
+  }
+ ]
+}

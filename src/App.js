@@ -1,25 +1,20 @@
-import logo from './logo.svg';
-import './App.css';
+import './App.css'
+import AddressInput from './Components/Address'
+import BookList from './Components/BookList'
+import ReduxCounter from './Components/ReduxCounter'
+import SkillDetails from './Components/SkillDetails'
+import UltimateDbCrCheckbox from './Components/UltimateDbCrCheckbox'
 
 function App() {
-  return (
-    <div className="App">
-      <header className="App-header">
-        <img src={logo} className="App-logo" alt="logo" />
-        <p>
-          Edit <code>src/App.js</code> and save to reload.
-        </p>
-        <a
-          className="App-link"
-          href="https://reactjs.org"
-          target="_blank"
-          rel="noopener noreferrer"
-        >
-          Learn React
-        </a>
-      </header>
-    </div>
-  );
+ return (
+  <div>
+   {/* <SkillDetails /> */}
+   {/* <BookList /> */}
+   {/* <ReduxCounter /> */}
+   {/* <UltimateDbCrCheckbox /> */}
+   <AddressInput />
+  </div>
+ )
 }
 
-export default App;
+export default App

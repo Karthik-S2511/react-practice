@@ -1,0 +1,16 @@
+.dataTable {
+ width: 90%;
+ min-width: 300px;
+ max-width: 800px;
+ margin: auto;
+ border: 1px solid teal;
+}
+
+.dataTable button {
+ border: 2px solid orange;
+ background-color: white;
+ padding: 5px 8px;
+ font-weight: bolder;
+ cursor: pointer;
+ border-radius: 5px;
+}
